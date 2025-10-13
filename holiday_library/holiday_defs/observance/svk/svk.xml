@@ -201,6 +201,14 @@
 		<name lang="en">Reformation Day</name>
 	</holiday>
 	
+	<holiday validFrom="2025-01-01" holidayType="observance">
+		<date>
+			<fixedDate day="17" month="11" />
+		</date>
+		<name lang="sk">Deň boja za slobodu a demokraciu</name>
+		<name lang="en">Struggle for Freedom and Democracy Day</name>
+	</holiday>
+	
 	<holiday validFrom="2017-01-01" holidayType="observance">
 		<date>
 			<fixedDate day="30" month="12" />
@@ -210,6 +218,22 @@
 	</holiday>
 	
 	<!-- old dates -->
+	<holiday validFrom="2026-01-01" validTo="2026-12-31">
+		<date>
+			<fixedDate day="15" month="9" />
+		</date>
+		<name lang="sk">Sedembolestná Panna Mária</name>
+		<name lang="en">Day of Blessed Virgin Mary, Patron Saint of Slovakia</name>
+	</holiday>
+	
+	<holiday validFrom="2026-01-01" validTo="2026-12-31">
+		<date>
+			<fixedDate day="8" month="5" />
+		</date>
+		<name lang="sk">Deň víťazstva nad fašizmom</name>
+		<name lang="en">Day of Victory over Fascism</name>
+	</holiday>
+	
 	<holiday validFrom="2017-01-01" validTo="2020-12-31" holidayType="observance">
 		<date>
 			<fixedDate day="5" month="7" />
