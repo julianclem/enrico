@@ -4,40 +4,40 @@
 		<reference>https://onderwijs.vlaanderen.be/node/35</reference>
 	</metadata>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
 			<fixedDate day="1" month="1" />
 		</date>
 		<dateTo>
-			<fixedDate day="4" month="1" />
+			<fixedDate day="7" month="1" />
 		</dateTo>
 		<name lang="nl">Wintervakantie (Kerstmis)</name>
 		<name lang="en">Winter holidays (Christmas))</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="16" month="2" />
+			<fixedDate day="28" month="2" />
 		</date>
 		<dateTo>
-			<fixedDate day="22" month="2" />
+			<fixedDate day="3" month="3" />
 		</dateTo>
 		<name lang="nl">Krokusvakantie</name>
 		<name lang="en">Spring break (Easter)</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="6" month="4" />
+			<fixedDate day="3" month="4" />
 		</date>
 		<dateTo>
-			<fixedDate day="19" month="4" />
+			<fixedDate day="17" month="4" />
 		</dateTo>
 		<name lang="nl">Paasvakantie</name>
 		<name lang="en">Easter holidays</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
 			<fixedDate day="1" month="5" />
 		</date>
@@ -45,26 +45,26 @@
 		<name lang="en">Labour Day</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="14" month="5" />
+			<fixedDate day="25" month="5" />
 		</date>
 		<dateTo>
-			<fixedDate day="15" month="5" />
+			<fixedDate day="26" month="5" />
 		</dateTo>
 		<name lang="nl">Hemelvaart</name>
 		<name lang="en">Ascension Day</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="25" month="5" />
+			<fixedDate day="5" month="6" />
 		</date>
 		<name lang="nl">Pinkstermaandag</name>
 		<name lang="en">Pentecost Monday</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
 			<fixedDate day="1" month="7" />
 		</date>
@@ -75,18 +75,18 @@
 		<name lang="en">Summer vacation</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="2" month="11" />
+			<fixedDate day="30" month="10" />
 		</date>
 		<dateTo>
-			<fixedDate day="6" month="11" />
+			<fixedDate day="3" month="11" />
 		</dateTo>
 		<name lang="nl">Herfstvakantie (Allerheiligen)</name>
 		<name lang="en">Autumn break (All Saints' Day)</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
 			<fixedDate day="11" month="11" />
 		</date>
@@ -94,9 +94,9 @@
 		<name lang="en">Armistice Day</name>
 	</holiday>
 	
-	<holiday validFrom="2026-01-01" validTo="2026-12-31" holidayType="school_holiday">
+	<holiday validFrom="2028-01-01" validTo="2028-12-31" holidayType="school_holiday">
 		<date>
-			<fixedDate day="21" month="12" />
+			<fixedDate day="25" month="12" />
 		</date>
 		<dateTo>
 			<fixedDate day="31" month="12" />
